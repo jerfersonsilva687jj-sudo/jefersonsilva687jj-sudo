@@ -25,6 +25,7 @@
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonsilva687jj-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonsilva687jj-sudo&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerfersonsilva687jj-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerfersonsilva687jj-sudo&layout=compact&theme=tokyonight"/>
 </p>
+
